@@ -2,3 +2,5 @@ antok resolusi
 -mencoba github
 -belajar github
 -belajar git
+-mahir github
+-expert gihub
